@@ -1,0 +1,187 @@
+[
+  {
+    "id": "counselridge-law-6",
+    "title": "Retainer Block",
+    "price": 2500,
+    "description": "10-hour counsel block",
+    "category": "Retainer",
+    "image": "https://images.unsplash.com/photo-1479142506502-19b3a3b7ff33?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 59,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Scope": "Retainer",
+      "Turnaround": "5\u201310 business days",
+      "Format": "Written memo + call"
+    },
+    "options": [
+      "Standard",
+      "Rush (+20%)",
+      "On-site add-on"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Retainer Block?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "counselridge-law-7",
+    "title": "IP Snapshot",
+    "price": 1100,
+    "description": "Trademark / IP overview",
+    "category": "IP",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 68,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Scope": "IP",
+      "Turnaround": "5\u201310 business days",
+      "Format": "Written memo + call"
+    },
+    "options": [
+      "Standard",
+      "Rush (+20%)",
+      "On-site add-on"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in IP Snapshot?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "counselridge-law-8",
+    "title": "Employment Brief",
+    "price": 850,
+    "description": "Policy / handbook review",
+    "category": "Employment",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.3,
+    "reviews": 77,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Scope": "Employment",
+      "Turnaround": "5\u201310 business days",
+      "Format": "Written memo + call"
+    },
+    "options": [
+      "Standard",
+      "Rush (+20%)",
+      "On-site add-on"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Employment Brief?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "counselridge-law-9",
+    "title": "Regulatory Compliance Audit",
+    "price": 1800,
+    "description": "Sector rules + filing map",
+    "category": "Compliance",
+    "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 86,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Scope": "Compliance",
+      "Turnaround": "5\u201310 business days",
+      "Format": "Written memo + call"
+    },
+    "options": [
+      "Standard",
+      "Rush (+20%)",
+      "On-site add-on"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Regulatory Compliance Audit?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "counselridge-law-10",
+    "title": "Merger Due Diligence",
+    "price": 3200,
+    "description": "Data room + risk memo",
+    "category": "M&A",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 95,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Scope": "M&A",
+      "Turnaround": "5\u201310 business days",
+      "Format": "Written memo + call"
+    },
+    "options": [
+      "Standard",
+      "Rush (+20%)",
+      "On-site add-on"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Merger Due Diligence?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  }
+]
