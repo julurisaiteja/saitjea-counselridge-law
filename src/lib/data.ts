@@ -1,3 +1,6 @@
+import itemsA from "./items-a.json";
+import itemsB from "./items-b.json";
+
 export type CatalogItem = {
   id: string;
   title: string;
@@ -12,9 +15,6 @@ export type CatalogItem = {
   options: string[];
   pdpFaqs: { q: string; a: string }[];
 };
-
-import itemsA from "./items-a.json";
-import itemsB from "./items-b.json";
 
 export const brand = {
   name: "CounselRidge",
