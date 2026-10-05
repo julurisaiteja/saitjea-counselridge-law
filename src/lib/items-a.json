@@ -1,0 +1,187 @@
+[
+  {
+    "id": "counselridge-law-1",
+    "title": "Initial Consult",
+    "price": 250,
+    "description": "60-minute strategy session",
+    "category": "Consult",
+    "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=900&q=80",
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": 14,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Scope": "Consult",
+      "Turnaround": "5\u201310 business days",
+      "Format": "Written memo + call"
+    },
+    "options": [
+      "Standard",
+      "Rush (+20%)",
+      "On-site add-on"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Initial Consult?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "counselridge-law-2",
+    "title": "Contract Review",
+    "price": 750,
+    "description": "Business agreement review",
+    "category": "Contracts",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 23,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Scope": "Contracts",
+      "Turnaround": "5\u201310 business days",
+      "Format": "Written memo + call"
+    },
+    "options": [
+      "Standard",
+      "Rush (+20%)",
+      "On-site add-on"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Contract Review?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "counselridge-law-3",
+    "title": "Estate Planning Starter",
+    "price": 1200,
+    "description": "Will + basic directives",
+    "category": "Estate",
+    "image": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=900&q=80",
+    "badge": "New",
+    "rating": 4.5,
+    "reviews": 32,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Scope": "Estate",
+      "Turnaround": "5\u201310 business days",
+      "Format": "Written memo + call"
+    },
+    "options": [
+      "Standard",
+      "Rush (+20%)",
+      "On-site add-on"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Estate Planning Starter?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "counselridge-law-4",
+    "title": "Business Formation",
+    "price": 1500,
+    "description": "Entity setup counsel",
+    "category": "Business",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 41,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Scope": "Business",
+      "Turnaround": "5\u201310 business days",
+      "Format": "Written memo + call"
+    },
+    "options": [
+      "Standard",
+      "Rush (+20%)",
+      "On-site add-on"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Business Formation?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "counselridge-law-5",
+    "title": "Dispute Assessment",
+    "price": 900,
+    "description": "Case evaluation package",
+    "category": "Dispute",
+    "image": "https://images.unsplash.com/photo-1436450412740-6b988f486c6b?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 50,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Scope": "Dispute",
+      "Turnaround": "5\u201310 business days",
+      "Format": "Written memo + call"
+    },
+    "options": [
+      "Standard",
+      "Rush (+20%)",
+      "On-site add-on"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Dispute Assessment?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  }
+]
