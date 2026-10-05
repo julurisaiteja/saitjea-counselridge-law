@@ -13,6 +13,9 @@ export type CatalogItem = {
   pdpFaqs: { q: string; a: string }[];
 };
 
+import itemsA from "./items-a.json";
+import itemsB from "./items-b.json";
+
 export const brand = {
   name: "CounselRidge",
   tagline: "Strict counsel. Clear columns. High stakes.",
@@ -30,7 +33,7 @@ export const brand = {
   stickyHref: "/book",
 };
 
-export const items: CatalogItem[] = JSON.parse(`PLACEHOLDER_ITEMS`);
+export const items: CatalogItem[] = [...itemsA, ...itemsB] as CatalogItem[];
 
 export const reviewList = [
   { name: "Helena D.", quote: "Columns of clarity when the stakes spiked." },
